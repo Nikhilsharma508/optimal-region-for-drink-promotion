@@ -1,11 +1,11 @@
 # Optimal Region for Drink Promotion: A Data-Driven Market Expansion Strategy
 
 ## Executive Summary
-This project outlines a **data-driven strategy** for a wine company looking to expand its promotional efforts in Russia. With a **limited marketing budget**, the objective is to target a new region that mirrors the successful consumer base in **Saint Petersburg**. Using **historical alcohol consumption data** (1998–2016) and **unsupervised machine learning techniques**, we identified the **top 10 optimal regions** that share similar buying habits with St. Petersburg, maximizing the potential **return on investment**.
+This project outlines a **data-driven strategy** for a wine company looking to expand its promotional efforts in Russia. Because "vibes" and "gut feelings" rarely satisfy a CFO, we leverage **historical alcohol consumption data** (1998–2016) and **unsupervised machine learning techniques** to identify the **top 10 optimal regions** that share similar buying habits with **Saint Petersburg**, maximizing the potential **return on investment** without the guesswork.
 
 ## Business Context
-A beverage company has experienced significant success running promotions in **Saint Petersburg** and is now looking to expand. Due to **budget constraints**, launching a nationwide campaign is not feasible. 
-The **strategic goal** is to pinpoint areas where the demographic and consumption trends closely resemble St. Petersburg, ensuring the new promotion resonates with the local population. 
+A beverage company has experienced significant success running promotions in **Saint Petersburg** and is now looking to expand. However, with a **limited marketing budget**, launching a nationwide campaign is about as realistic as finding a sunny day in St. Petersburg—it's just not happening. 
+The **strategic goal** is to pinpoint the 'spiritual twins' of the St. Petersburg market, ensuring the new promotion resonates with the local population while avoiding the high costs of a "spray and pray" marketing approach. 
 
 ## Data Overview & Preprocessing
 The analysis leverages a comprehensive dataset of alcohol consumption across various Russian regions, spanning from **1998 to 2016**. 
